@@ -1,5 +1,5 @@
 # The App is hosted on Heroku
-https://data-manipulation-reactjs.herokuapp.com/#scroll
+https://data-manipulation-reactjs.herokuapp.com
 
 # Getting Started with Create React App
 
