@@ -1,4 +1,4 @@
-![Happy Christmas](Web capture_10-9-2021_172513_localhost.jpeg)
+![Happy Christmas](ScreenShotApp.png)
 
 # The App is hosted on Heroku
 https://data-manipulation-reactjs.herokuapp.com
